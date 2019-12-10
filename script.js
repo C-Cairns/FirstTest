@@ -24,10 +24,10 @@
 //
 //alert(message.length);
 
-var message = "Congrats. The new version comitted.";
+var message = "Congrats. You are an EPIC individual.";
 alert(message);
 
-let message2 = message + ". Sorry. Just repeating myself.";
+let message2 = message + ". Sorry, but I just have to say how EPIC you are one more time.";
 alert(message2);
 
 alert("FYI the last message is " + message2.length + " characters long.");
